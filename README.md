@@ -7,19 +7,19 @@ We chose to do this project because we are all foodies who are passionate to exp
 Below are three key visualizations that can give us an overall picture of the three important aspects about mobile foods in San Francisco: what, when and where. 
 
 1. What are the most popular mobile food items that are offered by mobile food vendors in San Francisco?
-![](Visualization%20Images/MobileFoodWordCloud.png)
+![](3. Wordcloud.png)
 
 As we can see from the above word cloud image of mobile food items in San Francisco, the most popular food items offered by the vendors include food items on cold truck, snacks, packaged sandwiches, pitas, hot drinks and breakfast. 
 
 
 2. How many mobile foods are available during certain times and days of the week?
-![](Visualization%20Images/MobileFoodHeatmap.png)
+![](https://github.com/shuanghao0808/Mobile-Food-in-SF/blob/master/Visualization%20Images/4.%20Counts%20of%20Mobile%20Food%20Available%20in%20SF.png)
 
 The above heatmap shows that much more mobile foods are available during week days than weekends. Also, the most mobile foods are available during lunch and brunch hours (9am-2pm). This shows that most mobile foods target to serve lunches and brunches for working professionals. 
 
 
 3. Where in San Francisco are the mobile foods located?
-![](Visualization%20Images/MobileFoodLocationsbyFacilityType.png)
+![](https://github.com/shuanghao0808/Mobile-Food-in-SF/blob/master/Visualization%20Images/14.%20Business%20Location%20of%20Mobile%20Food%20by%20Facility%20Type%20in%20SF%20.png)
 
 From the initial view of the mobile food business locationson in San Francisco map for both trucks and push carts, we can see there are only few points on the west side. Most of the points are concentrated on the east and middle side, especially the northeast corner, and these areas are San Francisco's commercial areas with the most companies and business. This further shows that the mobile foods target to serve the working professionals. 
 
