@@ -46,4 +46,4 @@ Dataset 3: Mobile Food Summary
 We merged Mobile Food Facility Permit left to Mobile Food Schedule by column 'Permit'.
 
 ## Python Jupyter Notebook in nbviewer
-https://nbviewer.jupyter.org/github/andrewhuangca/Analysis-of-Mobile-Food-in-SF/blob/master/Jupyter%20Notebook/Mobile%20Food%20in%20SF_Data%20Visualization-Final-0728_v1.ipynb
+https://nbviewer.jupyter.org/github/shuanghao0808/Mobile-Food-in-SF/blob/master/Analysis/Mobile%20Food%20in%20SF_Data%20Visualization-Final-0729.ipynb
